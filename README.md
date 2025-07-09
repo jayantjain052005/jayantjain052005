@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Jayant Jain
 
-<!--
-**jayantjain052005/jayantjain052005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year B.Tech CSE Student  
+💡 Passionate about **AI & ML** – on my learning bucket list  
+🧠 Currently mastering **Data Structures & Algorithms**  
+🌐 Just started **Full Stack Development** to build real-world AI-powered apps  
+🚀 Preparing for **Adobe India Hackathon 2025**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- 💻 Languages: Python, Java, JavaScript, C++
+- 🌐 Frontend: HTML, CSS, React.js, TailwindCSS
+- ⚙️ Backend: Node.js, Express.js, Flask (learning)
+- 🧠 ML/NLP: Scikit-learn, HuggingFace Transformers (beginner)
+- 🗄️ Databases: MongoDB, MySQL
+- ☁️ Deployment: Vercel, Render, GitHub Pages
+
+---
+
+## 📌 Featured Projects
+
+- 📚 [Adobe Hackathon 2025](https://github.com/jayantjain052005/adobe-hackathon-2025) *(WIP – Smart Reading Assistant with AI/NLP)*
+- 💬 [OpenAI Chatbot](https://github.com/jayantjain052005/openai-chatbot) *(Conversational agent using GPT APIs)*
+- 🧠 [DSA Practice](https://github.com/jayantjain052005/dsa-practice) *(LeetCode-style problems in Java and Python)*
+
+---
+
+## 🌐 Connect with Me
+
+- 🔗 [LinkedIn](https://linkedin.com/in/jayantjain2005)
+- 🧠 [LeetCode](https://leetcode.com/u/jayantjain052005/)
+- 🧪 [Codolio](https://codolio.com/profile/jayantjain)
+
+
