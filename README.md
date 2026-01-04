@@ -11,11 +11,10 @@
 ## 🛠️ Tech Stack
 
 - 💻 Languages: Python, Java, JavaScript, C++
-- 🌐 Frontend: HTML, CSS, React.js, TailwindCSS
-- ⚙️ Backend: Node.js, Express.js, Flask (learning)
+- 🌐 Frontend: HTML, CSS
+
 - 🧠 ML/NLP: Scikit-learn, HuggingFace Transformers (beginner)
-- 🗄️ Databases: MongoDB, MySQL
-- ☁️ Deployment: Vercel, Render, GitHub Pages
+
 
 ---
 
