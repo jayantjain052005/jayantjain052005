@@ -23,6 +23,7 @@
 - 📚 [Adobe Hackathon 2025](https://github.com/jayantjain052005/adobe-hackathon-2025) *(WIP – Smart Reading Assistant with AI/NLP)*
 - 💬 [OpenAI Chatbot](https://github.com/jayantjain052005/openai-chatbot) *(Conversational agent using GPT APIs)*
 - 🧠 [DSA Practice](https://github.com/jayantjain052005/dsa-practice) *(LeetCode-style problems in Java and Python)*
+- 📊[ Restaurant Tips Data Analysis | Python] (https://github.com/jayantjain052005/restaurant-tips-analysis) *(Data scince project simple)*
 
 ---
 
