@@ -9,7 +9,7 @@
 
 ## 🛠️ Tech Stack
 
-* 💻 Languages: Python, Java, C++, JavaScript
+* 💻 Languages: Python, Java
 * 🌐 Frontend: HTML, CSS
 * ⚙️ Tools & Libraries: Pandas, NumPy, Scikit-learn, Git
 * 🧠 ML/NLP: Scikit-learn, HuggingFace Transformers (beginner)
