@@ -25,7 +25,7 @@ Git • GitHub • VS Code • Jupyter Notebook • Google Colab
 Scikit-learn • Pandas • NumPy  
 Matplotlib • Seaborn  
 OpenCV • MediaPipe  
-LangChain  
+ 
 
 ### 📊 Domains
 Machine Learning • Computer Vision • Data Analysis  
