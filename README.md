@@ -16,7 +16,7 @@ Focused on solving complex problems, optimizing models, and creating scalable da
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-Python • Java • C++ • SQL  
+Python • Java  • SQL  
 
 ### 🧰 Tools
 Git • GitHub • VS Code • Jupyter Notebook • Google Colab  
@@ -56,6 +56,7 @@ Feature Engineering • Predictive Modeling
 - Robust under lighting & orientation variations  
 
 🔗 https://github.com/jayantjain052005/asl-recognition  
+🔗https://asl-flask-app-7.onrender.com/
 
 ---
 
